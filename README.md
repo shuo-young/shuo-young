@@ -4,7 +4,6 @@ I'm [Shuo Yang](https://github.com/shuo-young)! I'm a PhD student in software en
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/shall_yangshuo)](https://twitter.com/shall_yangshuo)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/shuo-young)](https://github.com/shuo-young)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shuo-young.shuo-young)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shuo-young&show_icons=true&hide_border=true">
 
