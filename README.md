@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-I'm [Shuo Yang](https://github.com/shuo-young), a 2nd year PhD student in software engineering at SYSU and a software development fanatic.
+I'm [Shuo Yang](https://github.com/shuo-young), a 3rd year PhD student in software engineering at SYSU and a software development fanatic. My research interests include software security, program analysis, and empirical study.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/shall_yangshuo)](https://twitter.com/shall_yangshuo)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/shuo-young)](https://github.com/shuo-young)
