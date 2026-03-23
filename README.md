@@ -1,10 +1,10 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-I'm Shuo Yang, a 4th-year PhD student majoring in software engineering at Sun Yat-sen University (SYSU). My research interests include software security, program analysis, and empirical study.
+I'm Shuo Yang, a 4th-year PhD student majoring in software engineering at Sun Yat-sen University (SYSU). My research interests include software security, program analysis.
 
-I specialize in Web3 smart contract security and am learning Web2 reverse engineering, working with things like routers, hardware crypto wallets, robotics, and more.
+I specialize in Web3 smart contract/blockchain client security and am learning reverse engineering on things like routers, hardware crypto wallets, robotics, and more. Also interested in AI Agents and Coding Agent security.
 
-Web3 Bug Bounty Award: $21,000.
+Bug Bounty Award: $21,000.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/shall_yangshuo)](https://twitter.com/shall_yangshuo)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/shuo-young)](https://github.com/shuo-young)
