@@ -1,8 +1,10 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-I'm Shuo Yang, a 4th-year PhD student majoring in software engineering at Sun Yat-sen University (SYSU). My research interests include software security, program analysis.
+I'm Shuo Yang, a 4th-year PhD student majoring in software engineering at Sun Yat-sen University (SYSU). My research interests include:
 
-I specialize in Web3 smart contract/blockchain client security and am learning reverse engineering on things like routers, hardware crypto wallets, robotics, and more. Also interested in AI Agents and Coding Agent security.
+- AI for Security: AI-assisted security analysis for Web3 (smart contracts, blockchain clients, on-chain txs, etc.) and complex software systems.
+- AI Agent Security: Security and trustworthiness of autonomous agents and AI-native systems.
+- AI for Program Analysis: Combining AI with program analysis for software understanding, testing, and security.
 
 Bug Bounty Award: ~$22,800.
 
